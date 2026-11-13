@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+/* ────────────────────────────────────────────────────────────
+ * Design-system tokens — Figma is the source of truth.
+ *   primitives → raw color / radius / breakpoint scales
+ *   typography → font sizes, line-height, tracking, weights, family
+ *   semantic   → --color-* roles consumed by utilities
+ *   root       → bare --* shadcn vars
+ * Values come from the Figma file (desktop 57:1305, mobile 61:404).
+ * ──────────────────────────────────────────────────────────── */
+@import "./primitives.css";
+@import "./typography.css";
+@import "./semantic.css";
+@import "./root.css";
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+  }
+}

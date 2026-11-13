@@ -1,0 +1,179 @@
+{
+  "common": {
+    "logoAlt": "جون لويس آند بارتنرز",
+    "home": "الرئيسية",
+    "originalPrice": "السعر الأصلي:",
+    "ratedOutOf": "التقييم {rating} من {max}",
+    "rated": "التقييم",
+    "loadingProduct": "جارٍ تحميل المنتج",
+    "tryAgain": "حاول مرة أخرى",
+    "close": "إغلاق"
+  },
+  "announcement": {
+    "message": "موسم جديد قادم!  خصم 10% على كل المنتجات!  اطلب الآن!",
+    "endsIn": "ينتهي العرض خلال {time}"
+  },
+  "header": {
+    "store": "المتجر",
+    "search": "بحث",
+    "categories": "الأقسام",
+    "signIn": "تسجيل الدخول",
+    "wishlist": "المفضلة",
+    "cart": "السلة، {count, plural, =0 {فارغة} one {منتج واحد} two {منتجان} few {# منتجات} many {# منتجًا} other {# منتج}}",
+    "menu": "القائمة"
+  },
+  "breadcrumb": {
+    "label": "مسار التنقل",
+    "home": "الرئيسية"
+  },
+  "gallery": {
+    "images": "صور {name}",
+    "thumbnails": "صور المنتج",
+    "showImage": "عرض الصورة {index} من {total}",
+    "zoomIn": "تكبير",
+    "zoomOut": "تصغير",
+    "share": "مشاركة",
+    "linkCopied": "تم نسخ الرابط",
+    "shareFailed": "تعذّرت مشاركة هذا المنتج",
+    "addToWishlist": "أضف إلى المفضلة",
+    "removeFromWishlist": "إزالة من المفضلة",
+    "previous": "الصورة السابقة",
+    "next": "الصورة التالية"
+  },
+  "product": {
+    "description": "الوصف:",
+    "seeMore": "عرض المزيد....",
+    "seeLess": "عرض أقل",
+    "select": "اختر",
+    "variation": {
+      "color": "اللون",
+      "size": "المقاس"
+    },
+    "sizeChart": "دليل المقاسات",
+    "quantity": "الكمية:",
+    "quantityLabel": "كمية {name}",
+    "decrease": "إنقاص {label}",
+    "increase": "زيادة {label}",
+    "selectQuantity": "اختر {label}",
+    "addToCart": "أضف إلى السلة",
+    "checkoutNow": "اطلب الآن",
+    "outOfStock": "نفدت الكمية",
+    "inStock": "متوفر",
+    "lowStock": "متبقٍ {left} فقط",
+    "deliveryTerms": "شروط التوصيل",
+    "missingVariation": "من فضلك اختر {variation}",
+    "unavailable": "هذا الاختيار غير متاح",
+    "added": "تمت الإضافة إلى السلة",
+    "viewCart": "عرض السلة",
+    "limitReached": "الحد الأقصى للطلب {max}؛ في سلتك {count}"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "titleWithCount": "سلة التسوق ({count})",
+    "description": "راجع المنتجات في سلتك وعدّل الكميات.",
+    "emptyTitle": "سلتك فارغة",
+    "emptyBody": "اختر اللون والمقاس لإضافة أول منتج.",
+    "continueShopping": "متابعة التسوق",
+    "subtotal": "المجموع الفرعي",
+    "savings": "وفّرت",
+    "checkout": "إتمام الطلب",
+    "checkoutUnavailable": "إتمام الطلب غير متاح في هذا العرض",
+    "remove": "إزالة {name}"
+  },
+  "grid": {
+    "related": "منتجات ذات صلة",
+    "popular": "الأكثر رواجًا هذا الأسبوع",
+    "viewAll": "عرض الكل",
+    "sold": "تم بيع {count}"
+  },
+  "reviews": {
+    "title": "تقييمات المنتج",
+    "averageRating": "متوسط التقييم {rating} من {max}",
+    "fromCount": "من {count} تقييم",
+    "starReviews": "تقييمات {stars} نجوم",
+    "filterTitle": "تصفية التقييمات",
+    "rating": "التقييم",
+    "stars": "{stars} نجوم",
+    "topicsTitle": "موضوعات التقييم",
+    "topics": {
+      "product-quality": "جودة المنتج",
+      "seller-services": "خدمة البائع",
+      "product-price": "سعر المنتج",
+      "shipment": "الشحن",
+      "match-description": "مطابقة الوصف"
+    },
+    "listTitle": "قائمة التقييمات",
+    "show": "عرض",
+    "tabs": {
+      "all": "كل التقييمات",
+      "media": "بالصور والفيديو",
+      "description": "مع وصف"
+    },
+    "filter": "تصفية التقييمات",
+    "empty": "لا توجد تقييمات تطابق هذه الفلاتر.",
+    "helpful": "مفيد، {count} صوت",
+    "notHelpful": "غير مفيد",
+    "pages": "صفحات التقييمات",
+    "page": "الصفحة {page}",
+    "nextPage": "الصفحة التالية"
+  },
+  "footer": {
+    "label": "التذييل",
+    "emailLabel": "البريد الإلكتروني",
+    "newsletterPlaceholder": "احصل على أحدث العروض في بريدك",
+    "subscribe": "اشترك",
+    "subscribed": "تم اشتراكك في أحدث العروض",
+    "socials": {
+      "facebook": "فيسبوك",
+      "instagram": "إنستغرام",
+      "twitter": "تويتر",
+      "email": "البريد الإلكتروني"
+    },
+    "columns": {
+      "shop": {
+        "title": "تسوّق",
+        "links": {
+          "account": "حسابي",
+          "login": "تسجيل الدخول",
+          "wishlist": "المفضلة",
+          "cart": "السلة"
+        }
+      },
+      "information": {
+        "title": "معلومات",
+        "links": {
+          "shipping": "سياسة الشحن",
+          "returns": "الاسترجاع والاسترداد",
+          "cookies": "سياسة ملفات تعريف الارتباط",
+          "faq": "الأسئلة الشائعة"
+        }
+      },
+      "company": {
+        "title": "الشركة",
+        "links": {
+          "about": "من نحن",
+          "privacy": "سياسة الخصوصية",
+          "terms": "الشروط والأحكام",
+          "contact": "تواصل معنا"
+        }
+      }
+    },
+    "copyright": "© جون لويس 2001 - 2024",
+    "language": "اللغة",
+    "currency": "العملة",
+    "languages": {
+      "en": "English",
+      "ar": "العربية"
+    },
+    "currencies": {
+      "USD": "دولار",
+      "EGP": "جنيه"
+    },
+    "rateFailed": "تعذّر تحميل سعر صرف الجنيه؛ يتم العرض بالدولار"
+  },
+  "errors": {
+    "notFoundTitle": "لم نعثر على هذا المنتج",
+    "notFoundBody": "ربما تمت إزالته أو أن الرابط غير صحيح.",
+    "genericTitle": "حدث خطأ ما"
+  }
+}

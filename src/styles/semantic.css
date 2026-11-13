@@ -1,0 +1,67 @@
+/* ============================================================
+   SEMANTIC TOKENS
+   Roles taken from where each Figma colour is used. Emitted as
+   --color-* so they drive utilities (bg-primary, text-muted-foreground…).
+   The design ships a light theme only.
+   ============================================================ */
+@theme static {
+  /* Surfaces */
+  --color-background: var(--color-base-white);
+  --color-foreground: var(--color-neutral-900); /* body text, prices */
+  --color-card: var(--color-base-white);
+  --color-card-foreground: var(--color-neutral-900);
+  --color-popover: var(--color-base-white);
+  --color-popover-foreground: var(--color-neutral-900);
+
+  /* Text tiers */
+  --color-heading: var(--color-neutral-800); /* product title, card names */
+  --color-muted-foreground: var(--color-neutral-600); /* struck price, sold */
+  --color-subtle-foreground: var(
+    --color-neutral-450
+  ); /* brand, breadcrumb, labels */
+  --color-faint-foreground: var(
+    --color-neutral-500
+  ); /* card subtitles, links */
+  --color-option-foreground: var(--color-neutral-650); /* size options */
+  --color-emphasis: var(--color-base-black); /* "See More" */
+
+  /* Actions */
+  --color-primary: var(--color-neutral-900);
+  --color-primary-foreground: var(--color-base-white);
+  --color-secondary: var(--color-base-white);
+  --color-secondary-foreground: var(--color-neutral-750);
+  --color-muted: var(--color-neutral-100);
+  --color-accent: var(--color-neutral-150); /* selected option */
+  --color-accent-foreground: var(--color-neutral-900);
+  --color-destructive: var(--color-base-black);
+  --color-destructive-foreground: var(--color-base-white);
+
+  /* Lines */
+  --color-border: var(--color-neutral-200);
+  --color-border-strong: var(--color-neutral-750); /* selected option */
+  --color-border-button: var(--color-neutral-350); /* outline button */
+  --color-border-dashed: var(--color-neutral-400);
+  --color-input: var(--color-neutral-200);
+  --color-ring: var(--color-neutral-900);
+
+  /* Reviews & footer */
+  --color-ink: var(--color-ink-950); /* ratings, counts, reviewer names */
+  --color-meta-foreground: var(--color-slate-500); /* dates, filter labels */
+  --color-border-soft: var(
+    --color-slate-100
+  ); /* review buttons, pagination, rating track */
+  --color-border-filter: var(--color-neutral-300);
+  --color-checkbox: var(--color-slate-200);
+  --color-dot: var(--color-neutral-250);
+  --color-footer-foreground: var(--color-ink-900);
+  --color-footer-muted: var(--color-slate-800);
+  --color-placeholder: var(--color-slate-600);
+
+  /* Product */
+  --color-surface-image: var(--color-neutral-100);
+  --color-rating: var(--color-orange-400);
+  --color-success: var(--color-green-600);
+  --color-announcement: var(--color-neutral-900);
+  --color-announcement-foreground: var(--color-base-white);
+  --color-announcement-muted: var(--color-neutral-700); /* timer pill */
+}

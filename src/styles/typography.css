@@ -1,0 +1,55 @@
+/* ============================================================
+   TYPOGRAPHY TOKENS — Clash Grotesk, sizes in px from Figma.
+   Numeric names are the pixel size. `xs` / `sm` / `base` exist only
+   for the unedited shadcn primitives in components/ui.
+   Mobile fractional sizes are rounded to the nearest px.
+   ============================================================ */
+@theme {
+  --text-*: initial;
+  --leading-*: initial;
+  --tracking-*: initial;
+  --font-weight-*: initial;
+
+  /* font-size */
+  --text-8: 0.5rem; /* cart badge */
+  --text-11: 0.6875rem;
+  --text-12: 0.75rem;
+  --text-13: 0.8125rem;
+  --text-14: 0.875rem;
+  --text-16: 1rem;
+  --text-18: 1.125rem;
+  --text-20: 1.25rem;
+  --text-23: 1.4375rem;
+  --text-24: 1.5rem;
+  --text-28: 1.75rem;
+  --text-36: 2.25rem;
+  --text-xs: var(--text-12);
+  --text-sm: var(--text-14);
+  --text-base: var(--text-16);
+
+  /* line-height */
+  --leading-none: 1;
+  --leading-tight: 1.2;
+  --leading-snug: 1.3;
+  --leading-normal: 1.4;
+  --leading-relaxed: 1.6;
+
+  /* letter-spacing */
+  --tracking-title: -0.005em; /* −0.5% — product title */
+  --tracking-heading: -0.0125rem; /* −0.2px — section headings */
+  --tracking-wide: 0.01em; /* 1% */
+
+  /* font-weight — Clash Grotesk ships 400 / 500 / 600 */
+  --font-weight-regular: 400;
+  --font-weight-normal: 400; /* alias used by shadcn primitives */
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+}
+
+@theme inline {
+  /* Clash Grotesk has no Arabic glyphs; those fall through to Plex Sans Arabic. */
+  --font-sans:
+    "Clash Grotesk", "IBM Plex Sans Arabic", ui-sans-serif, system-ui,
+    sans-serif;
+  --font-heading: var(--font-sans);
+}

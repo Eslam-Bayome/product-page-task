@@ -1,0 +1,179 @@
+{
+  "common": {
+    "logoAlt": "John Lewis & Partners",
+    "home": "Home",
+    "originalPrice": "Original price:",
+    "ratedOutOf": "Rated {rating} out of {max}",
+    "rated": "Rated",
+    "loadingProduct": "Loading product",
+    "tryAgain": "Try again",
+    "close": "Close"
+  },
+  "announcement": {
+    "message": "New season coming!  Discount 10% for all product!  Checkout Now!",
+    "endsIn": "Offer ends in {time}"
+  },
+  "header": {
+    "store": "Store",
+    "search": "Search",
+    "categories": "Categories",
+    "signIn": "Sign in",
+    "wishlist": "Wishlist",
+    "cart": "Cart, {count, plural, =0 {empty} one {# item} other {# items}}",
+    "menu": "Menu"
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Homepage"
+  },
+  "gallery": {
+    "images": "{name} images",
+    "thumbnails": "Product images",
+    "showImage": "Show image {index} of {total}",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "share": "Share",
+    "linkCopied": "Link copied to clipboard",
+    "shareFailed": "Couldn't share this product",
+    "addToWishlist": "Add to wishlist",
+    "removeFromWishlist": "Remove from wishlist",
+    "previous": "Previous image",
+    "next": "Next image"
+  },
+  "product": {
+    "description": "Description:",
+    "seeMore": "See More....",
+    "seeLess": "See Less",
+    "select": "Select",
+    "variation": {
+      "color": "Color",
+      "size": "Size"
+    },
+    "sizeChart": "View Size Chart",
+    "quantity": "Quantity:",
+    "quantityLabel": "{name} quantity",
+    "decrease": "Decrease {label}",
+    "increase": "Increase {label}",
+    "selectQuantity": "Select {label}",
+    "addToCart": "Add To Cart",
+    "checkoutNow": "Checkout Now",
+    "outOfStock": "Out of stock",
+    "inStock": "In stock",
+    "lowStock": "Only {left} left",
+    "deliveryTerms": "Delivery T&C",
+    "missingVariation": "Please select a {variation}",
+    "unavailable": "This combination is unavailable",
+    "added": "Added to cart",
+    "viewCart": "View cart",
+    "limitReached": "You can order up to {max}; your cart has {count}"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "titleWithCount": "Your Cart ({count})",
+    "description": "Review the items in your cart and change quantities.",
+    "emptyTitle": "Your cart is empty",
+    "emptyBody": "Pick a color and size to add your first item.",
+    "continueShopping": "Continue shopping",
+    "subtotal": "Subtotal",
+    "savings": "You save",
+    "checkout": "Checkout",
+    "checkoutUnavailable": "Checkout isn't part of this demo",
+    "remove": "Remove {name}"
+  },
+  "grid": {
+    "related": "Related Product",
+    "popular": "Popular this week",
+    "viewAll": "View All",
+    "sold": "{count} Sold"
+  },
+  "reviews": {
+    "title": "Product Reviews",
+    "averageRating": "Average rating {rating} out of {max}",
+    "fromCount": "from {count} reviews",
+    "starReviews": "{stars} star reviews",
+    "filterTitle": "Reviews Filter",
+    "rating": "Rating",
+    "stars": "{stars} stars",
+    "topicsTitle": "Review Topics",
+    "topics": {
+      "product-quality": "Product Quality",
+      "seller-services": "Seller Services",
+      "product-price": "Product Price",
+      "shipment": "Shipment",
+      "match-description": "Match with Description"
+    },
+    "listTitle": "Review Lists",
+    "show": "Show",
+    "tabs": {
+      "all": "All Reviews",
+      "media": "With Photo & Video",
+      "description": "With Description"
+    },
+    "filter": "Filter reviews",
+    "empty": "No reviews match these filters.",
+    "helpful": "Helpful, {count} votes",
+    "notHelpful": "Not helpful",
+    "pages": "Review pages",
+    "page": "Page {page}",
+    "nextPage": "Next page"
+  },
+  "footer": {
+    "label": "Footer",
+    "emailLabel": "Email address",
+    "newsletterPlaceholder": "Get latest offers to your inbox",
+    "subscribe": "Subscribe",
+    "subscribed": "You're subscribed to our latest offers",
+    "socials": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "email": "Email"
+    },
+    "columns": {
+      "shop": {
+        "title": "Shop",
+        "links": {
+          "account": "My account",
+          "login": "Login",
+          "wishlist": "Wishlist",
+          "cart": "Cart"
+        }
+      },
+      "information": {
+        "title": "Information",
+        "links": {
+          "shipping": "Shipping Policy",
+          "returns": "Returns & Refunds",
+          "cookies": "Cookies Policy",
+          "faq": "Frequently asked"
+        }
+      },
+      "company": {
+        "title": "Company",
+        "links": {
+          "about": "About us",
+          "privacy": "Privacy Policy",
+          "terms": "Terms & Conditions",
+          "contact": "Contact Us"
+        }
+      }
+    },
+    "copyright": "© John Lewis plc 2001 - 2024",
+    "language": "Language",
+    "currency": "Currency",
+    "languages": {
+      "en": "English",
+      "ar": "العربية"
+    },
+    "currencies": {
+      "USD": "USD",
+      "EGP": "EGP"
+    },
+    "rateFailed": "Couldn't load the EGP exchange rate; showing USD"
+  },
+  "errors": {
+    "notFoundTitle": "We couldn't find this product",
+    "notFoundBody": "It may have been removed or the link is wrong.",
+    "genericTitle": "Something went wrong"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "products": [
+    {
+      "id": "whistle-wide-leg-jeans",
+      "brand": "Whistle",
+      "name": "Wide Leg Cropped Jeans, Denim",
+      "price": 26,
+      "image": "product-1",
+      "rating": 4.8,
+      "soldCount": 1238,
+      "href": "#"
+    },
+    {
+      "id": "anyday-utility-shirt",
+      "brand": "John Lewis ANYDAY",
+      "name": "Long Sleeve Utility Shirt, Navy, 6",
+      "price": 26,
+      "image": "product-2",
+      "rating": 4.8,
+      "soldCount": 1238,
+      "href": "#"
+    },
+    {
+      "id": "anyday-stripe-shirt",
+      "brand": "John Lewis ANYDAY",
+      "name": "Stripe Curved Hem Shirt, Blue",
+      "price": 32,
+      "image": "product-3",
+      "rating": 4.5,
+      "soldCount": 620,
+      "href": "#"
+    },
+    {
+      "id": "anyday-denim-overshirt",
+      "brand": "John Lewis ANYDAY",
+      "name": "Denim Overshirt, Mid Wash",
+      "price": 40,
+      "image": "product-4",
+      "rating": 4.6,
+      "soldCount": 238,
+      "href": "#"
+    },
+    {
+      "id": "john-lewis-linen-blazer",
+      "brand": "John Lewis",
+      "name": "Linen Blazer, Navy",
+      "price": 79,
+      "image": "product-5",
+      "rating": 4.8,
+      "soldCount": 1238,
+      "href": "#"
+    },
+    {
+      "id": "anyday-utility-shirt-ecru",
+      "brand": "John Lewis ANYDAY",
+      "name": "Long Sleeve Utility Shirt, Navy, 6",
+      "price": 26,
+      "image": "product-2",
+      "rating": 4.8,
+      "soldCount": 1238,
+      "href": "#"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "rating": 5,
+      "title": "This is amazing product I have.",
+      "description": "Comfortable from day one and the leather feels premium.",
+      "author": "Darrell Steward",
+      "avatar": "avatar-1",
+      "createdAt": "2020-07-02T15:29:00Z",
+      "likes": 128,
+      "topics": ["product-quality", "match-description"],
+      "hasMedia": true
+    },
+    {
+      "id": "r2",
+      "rating": 5,
+      "title": "This is amazing product I have.",
+      "author": "Darlene Robertson",
+      "avatar": "avatar-2",
+      "createdAt": "2020-07-02T13:04:00Z",
+      "likes": 82,
+      "topics": ["product-quality"],
+      "hasMedia": false
+    },
+    {
+      "id": "r3",
+      "rating": 5,
+      "title": "This is amazing product I have.",
+      "author": "Kathryn Murphy",
+      "avatar": "avatar-3",
+      "createdAt": "2020-06-26T22:03:00Z",
+      "likes": 9,
+      "topics": ["shipment"],
+      "hasMedia": false
+    },
+    {
+      "id": "r4",
+      "rating": 5,
+      "title": "This is amazing product I have.",
+      "description": "Exactly like the photos. Sizing runs true.",
+      "author": "Ronald Richards",
+      "avatar": "avatar-4",
+      "createdAt": "2020-07-07T10:14:00Z",
+      "likes": 124,
+      "topics": ["match-description"],
+      "hasMedia": true
+    },
+    {
+      "id": "r5",
+      "rating": 4,
+      "title": "Great quality, slightly narrow fit.",
+      "description": "I'd size up if you have wide feet.",
+      "author": "Darrell Steward",
+      "avatar": "avatar-1",
+      "createdAt": "2020-06-20T09:41:00Z",
+      "likes": 31,
+      "topics": ["product-quality", "product-price"],
+      "hasMedia": false
+    },
+    {
+      "id": "r6",
+      "rating": 4,
+      "title": "Good value for the price.",
+      "author": "Darlene Robertson",
+      "avatar": "avatar-2",
+      "createdAt": "2020-06-18T17:12:00Z",
+      "likes": 14,
+      "topics": ["product-price"],
+      "hasMedia": true
+    },
+    {
+      "id": "r7",
+      "rating": 5,
+      "title": "Fast delivery and lovely packaging.",
+      "author": "Kathryn Murphy",
+      "avatar": "avatar-3",
+      "createdAt": "2020-06-15T11:05:00Z",
+      "likes": 22,
+      "topics": ["shipment", "seller-services"],
+      "hasMedia": false
+    },
+    {
+      "id": "r8",
+      "rating": 3,
+      "title": "Nice, but the color is darker than shown.",
+      "description": "The brown is closer to chocolate in daylight.",
+      "author": "Ronald Richards",
+      "avatar": "avatar-4",
+      "createdAt": "2020-06-11T08:30:00Z",
+      "likes": 6,
+      "topics": ["match-description"],
+      "hasMedia": true
+    },
+    {
+      "id": "r9",
+      "rating": 5,
+      "title": "My second pair already.",
+      "author": "Darrell Steward",
+      "avatar": "avatar-1",
+      "createdAt": "2020-06-08T19:48:00Z",
+      "likes": 40,
+      "topics": ["product-quality"],
+      "hasMedia": false
+    },
+    {
+      "id": "r10",
+      "rating": 4,
+      "title": "Helpful seller, quick exchange.",
+      "description": "Swapped a size within three days.",
+      "author": "Darlene Robertson",
+      "avatar": "avatar-2",
+      "createdAt": "2020-06-02T14:20:00Z",
+      "likes": 11,
+      "topics": ["seller-services"],
+      "hasMedia": false
+    }
+  ]
+}

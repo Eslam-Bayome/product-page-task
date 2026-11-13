@@ -1,0 +1,181 @@
+{
+  "products": [
+    {
+      "id": "whistle-wide-leg-jeans",
+      "brand": "ويسل",
+      "name": "جينز واسع قصير، دنيم",
+      "price": 26,
+      "image": "product-1",
+      "rating": 4.8,
+      "soldCount": 1238,
+      "href": "#"
+    },
+    {
+      "id": "anyday-utility-shirt",
+      "brand": "جون لويس إنيداي",
+      "name": "قميص عملي بأكمام طويلة، كحلي، 6",
+      "price": 26,
+      "image": "product-2",
+      "rating": 4.8,
+      "soldCount": 1238,
+      "href": "#"
+    },
+    {
+      "id": "anyday-stripe-shirt",
+      "brand": "جون لويس إنيداي",
+      "name": "قميص مقلّم بحافة منحنية، أزرق",
+      "price": 32,
+      "image": "product-3",
+      "rating": 4.5,
+      "soldCount": 620,
+      "href": "#"
+    },
+    {
+      "id": "anyday-denim-overshirt",
+      "brand": "جون لويس إنيداي",
+      "name": "قميص دنيم خارجي، غسيل متوسط",
+      "price": 40,
+      "image": "product-4",
+      "rating": 4.6,
+      "soldCount": 238,
+      "href": "#"
+    },
+    {
+      "id": "john-lewis-linen-blazer",
+      "brand": "جون لويس",
+      "name": "سترة كتان، كحلي",
+      "price": 79,
+      "image": "product-5",
+      "rating": 4.8,
+      "soldCount": 1238,
+      "href": "#"
+    },
+    {
+      "id": "anyday-utility-shirt-ecru",
+      "brand": "جون لويس إنيداي",
+      "name": "قميص عملي بأكمام طويلة، كحلي، 6",
+      "price": 26,
+      "image": "product-2",
+      "rating": 4.8,
+      "soldCount": 1238,
+      "href": "#"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "rating": 5,
+      "title": "هذا منتج رائع حقًا.",
+      "description": "مريح من أول يوم والجلد فاخر الملمس.",
+      "author": "داريل ستيوارد",
+      "avatar": "avatar-1",
+      "createdAt": "2020-07-02T15:29:00Z",
+      "likes": 128,
+      "topics": ["product-quality", "match-description"],
+      "hasMedia": true
+    },
+    {
+      "id": "r2",
+      "rating": 5,
+      "title": "هذا منتج رائع حقًا.",
+      "author": "دارلين روبرتسون",
+      "avatar": "avatar-2",
+      "createdAt": "2020-07-02T13:04:00Z",
+      "likes": 82,
+      "topics": ["product-quality"],
+      "hasMedia": false
+    },
+    {
+      "id": "r3",
+      "rating": 5,
+      "title": "هذا منتج رائع حقًا.",
+      "author": "كاثرين مورفي",
+      "avatar": "avatar-3",
+      "createdAt": "2020-06-26T22:03:00Z",
+      "likes": 9,
+      "topics": ["shipment"],
+      "hasMedia": false
+    },
+    {
+      "id": "r4",
+      "rating": 5,
+      "title": "هذا منتج رائع حقًا.",
+      "description": "مطابق للصور تمامًا والمقاس مضبوط.",
+      "author": "رونالد ريتشاردز",
+      "avatar": "avatar-4",
+      "createdAt": "2020-07-07T10:14:00Z",
+      "likes": 124,
+      "topics": ["match-description"],
+      "hasMedia": true
+    },
+    {
+      "id": "r5",
+      "rating": 4,
+      "title": "جودة ممتازة لكن المقاس ضيق قليلًا.",
+      "description": "أنصح بمقاس أكبر لأصحاب القدم العريضة.",
+      "author": "داريل ستيوارد",
+      "avatar": "avatar-1",
+      "createdAt": "2020-06-20T09:41:00Z",
+      "likes": 31,
+      "topics": ["product-quality", "product-price"],
+      "hasMedia": false
+    },
+    {
+      "id": "r6",
+      "rating": 4,
+      "title": "قيمة جيدة مقابل السعر.",
+      "author": "دارلين روبرتسون",
+      "avatar": "avatar-2",
+      "createdAt": "2020-06-18T17:12:00Z",
+      "likes": 14,
+      "topics": ["product-price"],
+      "hasMedia": true
+    },
+    {
+      "id": "r7",
+      "rating": 5,
+      "title": "توصيل سريع وتغليف جميل.",
+      "author": "كاثرين مورفي",
+      "avatar": "avatar-3",
+      "createdAt": "2020-06-15T11:05:00Z",
+      "likes": 22,
+      "topics": ["shipment", "seller-services"],
+      "hasMedia": false
+    },
+    {
+      "id": "r8",
+      "rating": 3,
+      "title": "جميل، لكن اللون أغمق من الصور.",
+      "description": "البني أقرب إلى لون الشوكولاتة في ضوء النهار.",
+      "author": "رونالد ريتشاردز",
+      "avatar": "avatar-4",
+      "createdAt": "2020-06-11T08:30:00Z",
+      "likes": 6,
+      "topics": ["match-description"],
+      "hasMedia": true
+    },
+    {
+      "id": "r9",
+      "rating": 5,
+      "title": "هذا ثاني زوج أشتريه.",
+      "author": "داريل ستيوارد",
+      "avatar": "avatar-1",
+      "createdAt": "2020-06-08T19:48:00Z",
+      "likes": 40,
+      "topics": ["product-quality"],
+      "hasMedia": false
+    },
+    {
+      "id": "r10",
+      "rating": 4,
+      "title": "بائع متعاون واستبدال سريع.",
+      "description": "تم استبدال المقاس خلال ثلاثة أيام.",
+      "author": "دارلين روبرتسون",
+      "avatar": "avatar-2",
+      "createdAt": "2020-06-02T14:20:00Z",
+      "likes": 11,
+      "topics": ["seller-services"],
+      "hasMedia": false
+    }
+  ]
+}
